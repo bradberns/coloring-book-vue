@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { RouterLink, RouterView } from 'vue-router'
-
+import Footer from './components/Footer.vue'
 </script>
 
 <template>
@@ -31,7 +31,7 @@ import { RouterLink, RouterView } from 'vue-router'
             sunt in culpa qui officia deserunt mollit anim id est
             laborum.
           </p> -->
-          <ul class="text-blue-500 mt-1 text-sm">
+          <ul class="text-blue-500 mt-2 text-sm">
             <li>
               <a class=" hover:underline p-1" href="https://www.dropbox.com/scl/fi/ngfsxizqnqo5ttpinwv91/coloringbook.zip?rlkey=i1s4u539vdzstatbpht1ldj7e&st=u16xtq3y&dl=0">
               ColoringBook.zip | The Original
@@ -39,7 +39,7 @@ import { RouterLink, RouterView } from 'vue-router'
             </li>
             <li class="my-2">
               <a class=" hover:underline p-1" href="https://www.dropbox.com/scl/fi/2re8a7o4xz96gqgsi02fr/coloringbook-2.zip?rlkey=xbg1sa6d3xrryh0vhke1rhdb6&st=ikxq8c0j&dl=0">
-              ColoringBook-2.zip nurses, cowgirls, girls with glasses
+              ColoringBook-2.zip | nurses, cowgirls, girls with glasses
             </a>
             </li>
           </ul>
@@ -60,6 +60,7 @@ import { RouterLink, RouterView } from 'vue-router'
   </header>
 
   <RouterView />
+  <Footer/>
 </template>
 
 <style scoped>
