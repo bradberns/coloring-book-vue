@@ -16,9 +16,9 @@ import Footer from './components/Footer.vue'
             Welcome to Brad's Beauties
           </h1>
           <p class="mt-2 indent-1.5">
-            Here you'll find. Each zip file has over 20 images. Each
-            file was created with an AI image generator, and are 1148 px
-            (height) and 896 px (width).
+            Here you'll find AI created sketches of pretty women, perfect for coloring.
+             Each zip file has over 20 images and each image is 1148 px (height) and 896 px (width).
+             Feel free to download the complete zip files, or one of the samples below.
           </p>
           <!-- <p class="my-2 indent-1.5">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit,
