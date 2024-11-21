@@ -20,7 +20,7 @@ import { RouterLink, RouterView } from 'vue-router'
             file was created with an AI image generator, and are 1148 px
             (height) and 896 px (width).
           </p>
-          <p class="my-2 indent-1.5">
+          <!-- <p class="my-2 indent-1.5">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit,
             sed do eiusmod tempor incididunt ut labore et dolore
             magna aliqua. Ut enim ad minim veniam, quis nostrud
@@ -30,7 +30,7 @@ import { RouterLink, RouterView } from 'vue-router'
             pariatur. Excepteur sint occaecat cupidatat non proident,
             sunt in culpa qui officia deserunt mollit anim id est
             laborum.
-          </p>
+          </p> -->
           <ul class="text-blue-500 mt-1 text-sm">
             <li>
               <a class=" hover:underline p-1" href="https://www.dropbox.com/scl/fi/ngfsxizqnqo5ttpinwv91/coloringbook.zip?rlkey=i1s4u539vdzstatbpht1ldj7e&st=u16xtq3y&dl=0">
