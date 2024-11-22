@@ -4,7 +4,7 @@
 
 <template>
   <main class=" w-full mt-4">
-    <h2 class="text-center text-2xl mb-2">Samples from Original Coloring Book</h2>
+    <h2 class="text-center text-2xl mb-2">Original Coloring Book Samples</h2>
     <div class="mx-1">
       <div class="gridSet">
         <div class="gridCell">
@@ -21,10 +21,17 @@
         </div>
       </div>
 
-      <h2 class=" text-center my-2 text-2xl">Samples from Coloing Book #2</h2>
-      <p class="mb-2 text-center italic text-xs">
-        nurses, cowgirls, girls with glasses
-      </p>
+      <div class="mx-auto mb-2 text-center">
+        <h2 class=" text-center mt-2 mb-1 text-2xl">Coloing Book #2 Samples</h2>
+        <p class="mb-1 text-center italic text-xs">
+          nurses, cowgirls, girls with glasses
+        </p>
+        <a class="mx-auto text-sm md:text-xs text-blue-500 hover:underline p-1" href="https://www.dropbox.com/scl/fi/2re8a7o4xz96gqgsi02fr/coloringbook-2.zip?rlkey=xbg1sa6d3xrryh0vhke1rhdb6&st=ikxq8c0j&dl=0">
+          ColoringBook-2.zip
+        </a>
+      </div>
+
+
       <div class="gridSet">
         <div class="gridCell">
           <img class="" height="442" width="345"
@@ -40,10 +47,16 @@
         </div>
       </div>
 
-      <h2 class=" text-center my-2 text-2xl">Samples from Coloing Book #3</h2>
-      <p class="mb-2 text-center italic text-xs">
-        various anime girls
-      </p>
+      <div class="mx-auto mb-2 text-center">
+        <h2 class=" text-center mt-2 mb-1 text-2xl">Coloing Book #3 Samples</h2>
+        <p class="mb-1 text-center italic text-xs">
+          various anime girls
+        </p>
+        <a class="mx-auto text-sm md:text-xs text-blue-500 hover:underline p-1"
+          href="https://www.dropbox.com/scl/fi/7wabxlucfcqd10qf3zs0h/coloringbook-3.zip?rlkey=p0dgyxv4rs9w6siifcgfxrilg&st=wk39z7nq&dl=0">
+          ColoringBook.zip
+        </a>
+      </div>
 
       <div class="gridSet">
         <div class="gridCell">
@@ -68,10 +81,10 @@
 </template>
 <style scoped>
   .gridSet{
-    @apply grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3
+    @apply bg-gray-200 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3
   }
 
   .gridCell{
-    @apply py-2 bg-gray-100 flex items-center justify-center
+    @apply py-2 flex items-center justify-center
   }
 </style>
