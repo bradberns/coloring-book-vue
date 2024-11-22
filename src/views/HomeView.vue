@@ -19,22 +19,12 @@
           <img class="" height="442" width="345"
               src="https://res.cloudinary.com/dxbedpcbe/image/upload/v1732052998/20_kpxvd9.png"/>
         </div>
-        <div class="gridCell">
-          <img class="" height="442" width="345"
-              src="https://res.cloudinary.com/dxbedpcbe/image/upload/v1732052581/18_u1svcx.png"/>
-        </div>
-        <div class="gridCell">
-          <img class="" height="442" width="345"
-              src="https://res.cloudinary.com/dxbedpcbe/image/upload/v1732052580/17_i7khkp.png"/>
-        </div>
-        <div class="gridCell">
-          <img class="" height="442" width="345"
-              src="https://res.cloudinary.com/dxbedpcbe/image/upload/v1732049349/16_tugsdj.png"/>
-        </div>
       </div>
 
       <h2 class=" text-center my-2 text-2xl">Samples from Coloing Book #2</h2>
-
+      <p class="mb-2 text-center italic text-xs">
+        nurses, cowgirls, girls with glasses
+      </p>
       <div class="gridSet">
         <div class="gridCell">
           <img class="" height="442" width="345"
@@ -48,20 +38,31 @@
           <img class="" height="442" width="345"
             src="https://res.cloudinary.com/dxbedpcbe/image/upload/v1732140147/piclumen-1732056134661_yh9miv.png"/>
         </div>
-        <div class="gridCell">
-          <img class="" height="442" width="345"
-            src="https://res.cloudinary.com/dxbedpcbe/image/upload/v1732140144/piclumen-1732055381249_zxa02k.png"/>
-        </div>
+      </div>
+
+      <h2 class=" text-center my-2 text-2xl">Samples from Coloing Book #3</h2>
+      <p class="mb-2 text-center italic text-xs">
+        various anime girls
+      </p>
+
+      <div class="gridSet">
         <div class="gridCell">
           <img class=""
-            src="https://res.cloudinary.com/dxbedpcbe/image/upload/v1732140142/piclumen-1732055116114_luiuq9.png"
+            src="https://res.cloudinary.com/dxbedpcbe/image/upload/v1732232325/anime_13_tkhny2.png"
             height="442" width="345"/>
         </div>
         <div class="gridCell">
-          <img class="" height="442" width="345"
-            src="https://res.cloudinary.com/dxbedpcbe/image/upload/v1732140139/piclumen-1732054301607_kdqu7y.png"/>
+          <img class=""
+            src="https://res.cloudinary.com/dxbedpcbe/image/upload/v1732232328/anime_19_dmapvb.png"
+            height="442" width="345"/>
+        </div>
+        <div class="gridCell">
+          <img class=""
+            src="https://res.cloudinary.com/dxbedpcbe/image/upload/v1732232322/anime_1_faadvb.png"
+            height="442" width="345"/>
         </div>
       </div>
+
     </div>
   </main>
 </template>
