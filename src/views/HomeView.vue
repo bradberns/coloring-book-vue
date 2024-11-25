@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <main class=" w-full mt-4">
+  <main class=" w-full mt-2">
     <h2 class="text-center text-2xl mb-2">Original Coloring Book Samples</h2>
     <div class="mx-1">
       <div class="gridSet">
