@@ -4,11 +4,7 @@
 <template>
   <header class="text-center mt-4">
     <div class="m-2 grid grid-cols-1 lg:grid-cols-2">
-      <div id="img" class="mx-auto">
-        <img alt="Vue logo" class="text-center p-1 rounded-xl"
-          src="https://res.cloudinary.com/dxbedpcbe/image/upload/v1732139973/brad_berns-2_pywfds.png" width="300" height="300" />
-      </div>
-      <div id="intro" class="mx-auto lg:mx-10">
+      <div id="intro" class="mx-auto lg:mx-12">
         <div class=" pl-2 text-left">
           <h1 class="text-3xl">
             Welcome to Brad's Beauties
@@ -37,6 +33,19 @@
           </ul>
         </div>
       </div>
+      <div id="img" class="mx-auto">
+        <video width="350" height="450" controls loop="true"
+          class=" mt-2 p-2 bg-transparent lg:w-2/3 w-full pb-4 rounded-lg mx-auto">
+          <source
+            src="https://res.cloudinary.com/dxbedpcbe/video/upload/v1732569610/angle-vid_pvhpva.webm"
+            type="video/webm"
+          />
+          Your browser does not support the video.
+        </video>
+        <!-- <img alt="Vue logo" class="text-center p-1 rounded-xl"
+          src="https://res.cloudinary.com/dxbedpcbe/image/upload/v1732139973/brad_berns-2_pywfds.png" width="300" height="300" /> -->
+      </div>
+
     </div>
   </header>
 </template>
