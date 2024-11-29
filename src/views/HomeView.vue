@@ -5,7 +5,7 @@
 <template>
   <main class=" w-full mt-2">
     <h2 class="text-center text-2xl mb-2">Original Coloring Book Samples</h2>
-    <div class="mx-1">
+    <div>
       <div class="gridSet">
         <div class="gridCell">
           <img class="" height="442" width="345"
