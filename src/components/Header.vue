@@ -41,7 +41,7 @@
         <video  controls loop="true"
           class=" p-2 bg-transparent lg:w-4/5 w-full rounded-lg mx-auto">
           <source
-            src="https://res.cloudinary.com/dxbedpcbe/video/upload/v1732569610/angle-vid_pvhpva.webm"
+            src="https://res.cloudinary.com/dxbedpcbe/video/upload/v1732989824/Angel_vid_latest_yw5oha.mp4"
             type="video/webm"
           />
           Your browser does not support the video.
